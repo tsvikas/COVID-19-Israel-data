@@ -12,4 +12,4 @@ I've translated קל-בינוני-קשה to mild-serious-critical (better transl
 
 * *daily_reports/total_tests.csv:* Data from the periodic reports of total tests done.
 
-* *other_reports/\*_daily_test_results:* Data of daily positive and negative tests. According to the graph, this is using the date of the lab-result.
+* *other_reports/\*_daily_test_results.csv:* Data of daily positive and negative tests. According to the graph, this is using the date of the lab-result.
