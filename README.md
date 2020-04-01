@@ -14,4 +14,7 @@ I've translated קל-בינוני-קשה to mild-serious-critical (better transl
 
 * *daily_reports/total_tests.csv:* Data from the periodic reports of total tests done.
 
+* *daily_reports/daily_tests_*.csv:* Data from the graphs with tests total/pos/neg.
+Some of these graphs contradict each other. I put the latest readable data for each day In here.
+
 * *other_reports/\*_daily_test_results.csv:* Data of daily positive and negative tests. According to the graph, this is using the date of the lab-result.
