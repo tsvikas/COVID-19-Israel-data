@@ -5,6 +5,9 @@ Data source: https://t.me/MOHreport
 
 The data is publiclly published, and I don't own it. I might make mistakes when typing it, please verify as needed.
 
+## more sources
+A lot of data: https://data.gov.il/dataset/covid-19
+Status, updated daily: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
 Looking for world data? Check out https://github.com/CSSEGISandData/COVID-19
 
 ## Files list:
